@@ -2,3 +2,4 @@ bliss-0.50/
 *.pyc
 build/
 lib/
+*.DS_Store
