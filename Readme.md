@@ -2,9 +2,9 @@
 
 ## Synopsis
 
-Bliss is a (great) tool to check wether or not two graphs share an isomorphism, developed by Tommi Junttila and Petteri Kaski (Engineering an efficient canonical labeling tool for large and sparse graphs)[http://www.siam.org/proceedings/alenex/2007/alx07_013junttilat.pdf]. The work provided here is theirs.
+Bliss is a (great) tool to check wether or not two graphs share an isomorphism, developed by Tommi Junttila and Petteri Kaski [Engineering an efficient canonical labeling tool for large and sparse graphs](http://www.siam.org/proceedings/alenex/2007/alx07_013junttilat.pdf). The work provided here is theirs.
 
-Its sources (C++) are provided on the project (website)[http://www.tcs.hut.fi/Software/bliss/] under LGPL licence, and for convenience, a Python wrapper have also been published.
+Its sources (C++) are provided on the project [website](http://www.tcs.hut.fi/Software/bliss/) under LGPL licence, and for convenience, a Python wrapper have also been published.
 
 Unfortunately the bindings require Python 2.x, which is quite rare as a default environment by now.
 
