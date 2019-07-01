@@ -10,9 +10,9 @@ Unfortunately the bindings require Python 2.x, which is quite rare as a default 
 
 We provide here a Dockerfile of this wrapper, to get you straight to a working installation, with a few little modifications of the original : 
 
-	- adding installation of the PyBliss high level module, so you don't have to manually add path, `import PyBliss` will work everywhere
-	- adding a parser function `from_dimacs`
-	- adding extra test script of canonical traces
+ - add installation of PyBliss module, so you don't have to manually add path, `import PyBliss` will work everywhere
+ - add a parser function `from_dimacs`
+ - add extra test script of canonical traces
 
 ## Usage 
 
