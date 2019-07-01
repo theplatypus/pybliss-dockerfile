@@ -40,7 +40,7 @@ From now you are inside a debian-based anaconda container, with PyBliss availabl
 ### Python usage
 
 ```python
- import PyBliss
+import PyBliss
 
 G = PyBliss.from_dimacs('./data/ag/ag2-3-1')
 H = PyBliss.from_dimacs('./data/ag/ag2-3-2')
