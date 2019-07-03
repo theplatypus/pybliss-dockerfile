@@ -1,4 +1,4 @@
-FROM continuumio/anaconda
+FROM arm64v8/debian
 
 RUN apt-get update && \
 	apt-get install -y unzip python-dev gcc make && \
